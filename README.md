@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amine</h1>
 <h3 align="center">Full Stack Web Developer With +4 Experience</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminechairi&label=aminechairi&color=0e75b6&style=flat-square" alt="aminechairi" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amine-chairi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amine-chairi/" height="30" width="40" /></a>
