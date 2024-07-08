@@ -3,16 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminechairi&label=aminechairi&color=0e75b6&style=flat-square" alt="aminechairi" /> </p>
 
-- 🔭 I’m currently working on [Diamoni mall](https://github.com/aminechairi/node-js-ecommerse-api-v1)
-
-- 👯 I’m looking to collaborate on [Diamoni mall](https://github.com/aminechairi/node-js-ecommerse-api-v1)
-
-- 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~011db70300918f982a?mp_source=share](https://www.upwork.com/freelancers/~011db70300918f982a?mp_source=share)
-
-- 💬 Ask me about **react, next and node js**
-
-- 📫 How to reach me **aminemesseiyah@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amine-chairi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amine-chairi/" height="30" width="40" /></a>
